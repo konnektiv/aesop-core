@@ -5,7 +5,7 @@ jQuery(document).ready(function(){
 	jQuery(".aesop-lightbox").swipebox();
 
 	//Fitvids
-	jQuery('.aesop-video-container').fitVids();
+	//jQuery('.aesop-video-container').fitVids();
 
     jQuery(function(){
       	jQuery(document.body).on('click touchend','#swipebox-slider .current img', function(e){
